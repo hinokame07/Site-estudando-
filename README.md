@@ -22,7 +22,7 @@ Uma plataforma comunitária desenvolvida com React, TypeScript e Tailwind CSS.
 
 1. Clone o repositório
 ```bash
-git clone [URL_DO_SEU_REPOSITORIO]
+git clone [https://github.com/hinokame07/Site-estudando-.git]
 ```
 
 2. Instale as dependências
